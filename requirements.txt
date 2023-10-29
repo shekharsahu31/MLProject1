@@ -8,5 +8,6 @@ xgboost
 dill
 flask
 pickle5
+BeautifulSoup
 
 #-e .
