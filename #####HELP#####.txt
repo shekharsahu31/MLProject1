@@ -9,3 +9,5 @@ https://www.youtube.com/playlist?list=PLZoTAELRMXVPS-dOaVbAux22vzqdgoGhG
 https://github.com/krishnaik06/Studentmlprojectregression
 
 https://github.com/utkarshg1/mlproject_regression/
+
+https://github.com/krishnaik06/Student-Performance-Azure-deployment
